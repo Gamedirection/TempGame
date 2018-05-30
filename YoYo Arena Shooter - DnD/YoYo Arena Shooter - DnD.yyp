@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "455592e2-057a-47d8-8fd9-60fec80cbab4",
+            "Value": {
+                "id": "288dd7eb-bac0-4937-8536-04a500ef9829",
+                "resourcePath": "fonts\\WasteOfTime\\WasteOfTime.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4a28bf7b-036e-4d59-b5e1-0d7b17d6c6b6",
             "Value": {
                 "id": "f3dda14f-e7bd-45bd-886f-cc510f80f2de",
