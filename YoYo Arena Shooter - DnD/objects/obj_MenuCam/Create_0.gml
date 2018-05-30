@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 33B86B98
+/// @DnDArgument : "lives" "3"
+
+__dnd_lives = real(3);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 446CE616
