@@ -1,22 +1,22 @@
 {
-    "id": "e7e160d8-a2f2-4ab6-ac97-e1e15160e952",
+    "id": "82763c7b-3942-4fd6-b7ff-f94ba6753506",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "path_Options",
+    "name": "path_Optionsup",
     "closed": false,
     "hsnap": 0,
     "kind": 1,
     "points": [
         {
-            "id": "ce4b4693-eb80-45b2-a139-7d80bef9640d",
+            "id": "d7c40b2d-5073-4a22-8619-50c4a3009194",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 0,
-            "y": 0,
+            "y": 1080,
             "speed": 25
         },
         {
-            "id": "f57f976a-e4a9-41ad-a4a8-77a92f870a7d",
+            "id": "d46d2559-39a5-445e-9f39-15f7605f2c64",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 0,
@@ -24,11 +24,11 @@
             "speed": 100
         },
         {
-            "id": "dcc5549e-c49c-431c-a65f-8a733e7306c0",
+            "id": "3b5486bd-7815-402a-92f3-fc6aa94cac93",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 0,
-            "y": 1080,
+            "y": 0,
             "speed": 25
         }
     ],
