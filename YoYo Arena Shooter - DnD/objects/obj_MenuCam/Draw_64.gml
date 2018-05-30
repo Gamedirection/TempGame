@@ -16,18 +16,18 @@ draw_set_valign(fa_top);
 /// @DnDHash : 70A63DEA
 /// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "50"
-/// @DnDArgument : "caption" ""CamLoc: ""
+/// @DnDArgument : "caption" ""NYEHEH ""
 /// @DnDArgument : "var" "Var_CameraLocation"
-draw_text(50, 50, string("CamLoc: ") + string(Var_CameraLocation));
+draw_text(50, 50, string("NYEHEH ") + string(Var_CameraLocation));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 4E00A847
 /// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "100"
-/// @DnDArgument : "caption" ""CamActive: ""
+/// @DnDArgument : "caption" ""NYEHEH ""
 /// @DnDArgument : "var" "global.Var_CameraActive"
-draw_text(50, 100, string("CamActive: ") + string(global.Var_CameraActive));
+draw_text(50, 100, string("NYEHEH ") + string(global.Var_CameraActive));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
@@ -50,6 +50,6 @@ draw_set_valign(fa_middle);
 /// @DnDArgument : "x" "200"
 /// @DnDArgument : "y" "200"
 /// @DnDArgument : "xscale" "2"
-/// @DnDArgument : "caption" ""NOT BORDERLANDS!""
+/// @DnDArgument : "caption" ""NYEHEHEHEHEHEH!!!""
 /// @DnDArgument : "angle" "18"
-draw_text_transformed(200, 200, string("NOT BORDERLANDS!") + "", 2, 1, 18);
+draw_text_transformed(200, 200, string("NYEHEHEHEHEHEH!!!") + "", 2, 1, 18);

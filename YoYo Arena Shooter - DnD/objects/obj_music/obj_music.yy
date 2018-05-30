@@ -1,28 +1,18 @@
 {
-    "id": "03908a84-3d34-4e47-8cd2-73ae8df73259",
+    "id": "b3cb7f5e-fd2c-4fb3-bd25-a6e30dc69249",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemyspawn",
+    "name": "obj_music",
     "eventList": [
         {
-            "id": "3eae1e47-e688-4ad7-bc59-eba11ecc8c52",
+            "id": "ea31f072-afc4-4c9b-a826-acfdcf769ab4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "03908a84-3d34-4e47-8cd2-73ae8df73259"
-        },
-        {
-            "id": "186eaa7c-757e-4b11-ab5a-ed788ec530d6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "03908a84-3d34-4e47-8cd2-73ae8df73259"
+            "m_owner": "b3cb7f5e-fd2c-4fb3-bd25-a6e30dc69249"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "bc3dbf74-e951-4360-a51d-977a87995a6c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
